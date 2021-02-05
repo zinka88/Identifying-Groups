@@ -1,2 +1,2 @@
 # Identifying-Groups
-Code for Identifying Groups paper
+Code for Identifying Groups. 
