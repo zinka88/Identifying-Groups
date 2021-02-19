@@ -1,4 +1,4 @@
-# Code for identifying groups under and overpredicted by heatlh plan payment risk 
+# Code for identifying groups under and overpredicted by health plan payment risk 
 Code for identifying groups under and overpredicted by health plan payment risk 
 
 # Programs
