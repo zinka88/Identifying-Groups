@@ -1,5 +1,5 @@
-# Code for identifying groups under and overpredicted by health plan payment risk 
-Code for identifying groups under and overpredicted by health plan payment risk 
+# Code for "Identifying Unprofitable Groups in the Health Care System" 
+Code for identifying groups under and overpredicted by the health care payment system.
 
 # Programs
 *run_risk_adjustment.R - This program uses OLS to predict annual spending given demographics and 
