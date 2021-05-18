@@ -1,4 +1,4 @@
-# Code for "Identifying Unprofitable Groups in the Health Care System" 
+# Code for "Identifying Undercompensated Groups Defined by Multiple Attributes in Risk Adjustment" 
 Code for identifying groups under and overpredicted by the health care payment system.
 
 # Programs
