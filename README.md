@@ -13,5 +13,5 @@ nodes of each tree are saved using a hash object.
 
 # Data
 The programs use simulated data found in the "data" folder. This simulated data contains information on
-individual age, sex, health conditions categories (HCCs), geographic location, and annual health spending.
+individual age, documented sex, health conditions categories (HCCs), geographic location, and annual health spending.
  
